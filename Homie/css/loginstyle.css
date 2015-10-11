@@ -1,0 +1,66 @@
+body {
+    font-family: Josefin Slab;
+    margin: 0px;
+    background-color: #FFFBC4;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	display: inline;
+}
+
+.container {
+	width: 500px;
+	margin: 0 auto;
+	padding: 30px;
+}
+
+.top {
+	position: fixed;
+	overflow: auto;
+}
+
+#icon {
+    width: 60px;
+}
+
+#sign-up:hover {
+	background-color: #DBD57B;
+}
+
+#sign-in:hover {
+	background-color: #DBD57B;
+}
+
+#sign-up {
+	background-color: #EBE486;
+	margin-left: auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 40px;
+	padding-right: 40px;
+	display: inline;
+	margin-right: 5px;
+}
+
+#sign-in {
+	background-color: #EBE486;
+	margin-right: auto;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 40px;
+	padding-right: 40px;
+	display: inline;
+	margin-left: 5px;
+}
+
+.breadcrumbcontainer {
+	z-index: 3;
+	margin-top: 100px;
+	overflow: auto;
+}

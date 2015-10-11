@@ -1,0 +1,129 @@
+body {
+    margin: 0px;
+    font-family: Josefin Slab;
+}
+
+header {
+    height:70px;
+    background:#FFFBC4;
+    border:1px solid #CCC;
+    margin:0px auto;
+    position: fixed;
+    top: 0px;
+    display: inline;
+    width: 100%
+}
+
+.container {
+	margin-top: 26px;
+}
+
+#title {
+	font-family: Dancing Script;
+	font-size: 50px;
+	margin-left: 10px;
+	float: left;
+	margin-top: -22px;
+}
+
+#icon {
+	width: 60px;
+	float: left;
+	margin-top: -20px;
+	margin-left: 17%;
+}
+
+
+.buttons {
+	color: black;
+	font-size: 15px;
+    font-family: Dancing Script;
+	text-decoration: none;
+	float: right;
+	margin-right: 17%;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	opacity: 0.5;
+}
+
+a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+#sign-in {
+	background-color: #EBE486;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 40px;
+	padding-right: 40px;
+	display: inline;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.wrapper {
+    width: 60%;
+    height: 500px;
+    margin: 100px auto;
+}
+
+.titlewrapper {
+	width: 100%;
+	height: 80px;
+	background-color: honeydew;
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+}
+
+#household {
+	text-align: center;
+	font-size: 70px;
+	padding: 10px;
+}
+
+.homies {
+	background-color: aliceblue;
+	height: 500px;
+	float: left;
+	width: 30%;
+	display: inline;
+	border: 1px solid;
+}
+
+.mybills {
+	background-color: bisque;
+	height: 500px;
+	float: right;
+	width: 67%;
+	display: inline;
+	border: 1px solid sienna;
+}
+
+#subtitle {
+	font-size: 40px;
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	line-height: 110%;
+}
+
+footer {
+	background-color: lightpink;
+	width: 100%;
+	height: 80px;
+	float: left;
+	margin-top: 30px;
+	text-align: center;
+	font-size: 12px;
+	margin-bottom: 20px;
+}
+
+#date {
+	margin-top: 35px;
+}

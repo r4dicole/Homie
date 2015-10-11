@@ -1,0 +1,107 @@
+body {
+    margin: 0px;
+    font-family: Josefin Slab;
+}
+
+header {
+    height:70px;
+    background:#FFFBC4;
+    border:1px solid #CCC;
+    margin:0px auto;
+    position: fixed;
+    top: 0px;
+    display: inline;
+    width: 100%
+}
+
+.container {
+	margin-top: 26px;
+}
+
+#title {
+	font-family: Dancing Script;
+	font-size: 50px;
+	margin-left: 10px;
+	float: left;
+	margin-top: -22px;
+}
+
+#icon {
+	width: 60px;
+	float: left;
+	margin-top: -20px;
+	margin-left: 10%;
+}
+
+
+.buttons {
+	color: black;
+	font-size: 15px;
+    font-family: Dancing Script;
+	text-decoration: none;
+	float: right;
+	margin-right: 10%;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:hover {
+	opacity: 0.5;
+}
+
+a:visited {
+	text-decoration: none;
+	color: black;
+}
+
+#sign-in {
+	background-color: #EBE486;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 40px;
+	padding-right: 40px;
+	display: inline;
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.wrapper {
+    width: 70%;
+    height: 500px;
+    margin: 100px auto;
+
+}
+
+.wrappersub {
+	height: 500px;
+	float: left;
+	width: 300px;
+	display: inline;
+	margin-top: 100px;
+	margin-left: 2%;
+}
+
+#subtitle {
+	font-size: 50px;
+	text-align: center;
+	padding-top: 30px;
+	padding-right: 30px;
+	padding-bottom: 30px;
+	line-height: 110%;
+}
+
+.home {
+	float: right;
+	display: inline;
+	width: 50%;
+	margin-right: 7%;
+	line-height: 170%;
+	font-size: 18px;
+	margin-top: 80px;
+}
+
+footer {
+
+}
